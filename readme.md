@@ -8,7 +8,7 @@
 
 ชื่อ-สกุล :จันทร์จิรา ธนโชคนาวี
 
-GitHub Page URL :
+GitHub Page URL :https://cpe207-2568.github.io/lab07v2-janjira111/
 
 ---
 
